@@ -1,6 +1,8 @@
 This simple weather app is designed to give the user weather feedback based on the city they chose to look up. Based on the temperature, 
 the app changes its landscape background to fit that city's temperature appropriately. Enjoy and feel free to try it out!
 
+![Uploading Weatherly.PNG…]()
+
 <!------------------------------------------------------------------------------------------------>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
