@@ -1,7 +1,7 @@
 This simple weather app is designed to give the user weather feedback based on the city they chose to look up. Based on the temperature, 
 the app changes its landscape background to fit that city's temperature appropriately. Enjoy and feel free to try it out!
 
-![Uploading Weatherly.PNG…]()
+![Weatherly-app](https://user-images.githubusercontent.com/43049757/89093713-601ddb00-d382-11ea-80f2-d7558bc0ccba.PNG)
 
 <!------------------------------------------------------------------------------------------------>
 
